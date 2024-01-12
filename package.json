@@ -1,0 +1,18 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Тестовое задание",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "test",
+    "word",
+    "matrix",
+    "number"
+  ],
+  "author": "Alexey Voronenko",
+  "license": "ISC"
+}
