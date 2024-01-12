@@ -101,7 +101,7 @@ export default class Matrix {
     }
 
     /**
-     * Возвращает
+     * Находит и возвращает минимальное число в строке матрицы
      * @return number
      */
     findMinFigRow() {
